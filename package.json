@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.6.1",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.8.0",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@vitejs/plugin-vue2": "^2.2.0",
+        "sweetalert2": "^11.9.0",
+        "vue": "^2.7.15",
+        "vue-tables-2": "^2.3.5",
+        "vue-template-compiler": "^2.7.15"
+    }
+}
